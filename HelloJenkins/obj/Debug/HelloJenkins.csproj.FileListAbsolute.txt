@@ -1,0 +1,6 @@
+C:\Code\Repos\HelloJenkins\HelloJenkins\bin\Debug\HelloJenkins.exe.config
+C:\Code\Repos\HelloJenkins\HelloJenkins\bin\Debug\HelloJenkins.exe
+C:\Code\Repos\HelloJenkins\HelloJenkins\bin\Debug\HelloJenkins.pdb
+C:\Code\Repos\HelloJenkins\HelloJenkins\obj\Debug\HelloJenkins.csprojResolveAssemblyReference.cache
+C:\Code\Repos\HelloJenkins\HelloJenkins\obj\Debug\HelloJenkins.exe
+C:\Code\Repos\HelloJenkins\HelloJenkins\obj\Debug\HelloJenkins.pdb

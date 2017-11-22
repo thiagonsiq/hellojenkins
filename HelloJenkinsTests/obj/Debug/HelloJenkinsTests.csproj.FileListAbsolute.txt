@@ -1,0 +1,8 @@
+C:\Code\Repos\HelloJenkins\HelloJenkinsTests\obj\Debug\HelloJenkinsTests.csprojResolveAssemblyReference.cache
+C:\Code\Repos\HelloJenkins\HelloJenkinsTests\bin\Debug\HelloJenkinsTests.dll
+C:\Code\Repos\HelloJenkins\HelloJenkinsTests\bin\Debug\HelloJenkinsTests.pdb
+C:\Code\Repos\HelloJenkins\HelloJenkinsTests\bin\Debug\HelloJenkins.exe
+C:\Code\Repos\HelloJenkins\HelloJenkinsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Code\Repos\HelloJenkins\HelloJenkinsTests\bin\Debug\HelloJenkins.pdb
+C:\Code\Repos\HelloJenkins\HelloJenkinsTests\obj\Debug\HelloJenkinsTests.dll
+C:\Code\Repos\HelloJenkins\HelloJenkinsTests\obj\Debug\HelloJenkinsTests.pdb
